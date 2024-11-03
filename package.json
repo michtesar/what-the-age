@@ -2,6 +2,7 @@
   "name": "what-the-age",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://michtesar.github.io/what-the-age",
   "type": "module",
   "scripts": {
     "dev": "vite",
